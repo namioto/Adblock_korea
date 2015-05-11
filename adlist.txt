@@ -15,6 +15,7 @@
 
 ! URL filters
 castbox.shopping.naver.com/index.nhn
+ad.wowtv.co.kr
 
 ! Site element hiding rules
 naver.com##div.lnb
