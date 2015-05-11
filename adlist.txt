@@ -17,3 +17,4 @@
 castbox.shopping.naver.com/index.nhn
 
 ! Site element hiding rules
+naver.com##div.lnb
