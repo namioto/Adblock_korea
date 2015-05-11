@@ -13,6 +13,6 @@
 ##div[id$="_productAd"]
 
 ! URL filters
+castbox.shopping.naver.com
 
 ! Site element hiding rules
-naver.com##div.shopping_cast
