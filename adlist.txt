@@ -20,3 +20,4 @@ ad.wowtv.co.kr
 ! Site element hiding rules
 naver.com###ad_branding
 naver.com##.shopping_cast
+naver.com###ad_top
