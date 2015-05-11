@@ -15,3 +15,4 @@
 ! URL filters
 
 ! Site element hiding rules
+naver.com##div.shopping_cast
