@@ -10,6 +10,7 @@
 ##div[id^="AD_"]
 ##div[id^="ad_"]
 ##div[id^="ads"]
+##div[id^="_productAd"]
 
 ! URL filters
 
