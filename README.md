@@ -1,4 +1,4 @@
-# YousList
+# Adblock Filter for korean
 
 Block filter for [Adblock Plus][] and [uBlock][].
 
@@ -8,7 +8,7 @@ Block filter for [Adblock Plus][] and [uBlock][].
 ## Usage
 
 ```
-https://github.com/yous/YousList/raw/master/youslist.txt
+https://github.com/namioto/Adblock_korea/raw/master/adlist.txt
 ```
 
 ### Adblock Plus
