@@ -88,6 +88,7 @@ hankyung.com##div[class^="r_ad_"]
 hankyung.com##div[class^="news_ad_"]
 hankyung.com##div[class^="article_ad_"]
 en.seoul.co.kr###seoulAdTable
+en.seoul.co.kr##.atic_reply
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
