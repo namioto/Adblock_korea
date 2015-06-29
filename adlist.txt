@@ -74,6 +74,7 @@ sports.chosun.com##div[id^="NAD_BANNER_WIDGET_"]
 sports.chosun.com###JSSAP_CmAdView
 segye.com###sideBanner
 segye.com###NeoInteractiveScreenViewLayer
+segye.com##div[id^="ClickStory_ViewAD"]
 segye.com##div[id^="ClickStory_ViewRightAD"]
 segye.com##iframe[src^="http://ad2.segye.com"]
 segye.com##iframe[src^="http://ads.mncmedia.co.kr"]
