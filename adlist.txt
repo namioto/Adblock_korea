@@ -90,6 +90,7 @@ hankyung.com##div[class^="article_ad_"]
 en.seoul.co.kr###seoulAdTable
 en.seoul.co.kr##.atic_reply
 en.seoul.co.kr##.encnt_footer
+cafe.naver.com##.area_sa
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
