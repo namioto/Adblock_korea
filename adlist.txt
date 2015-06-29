@@ -32,6 +32,8 @@
 ###ILSA_obj
 ##.adsbygoogle
 ##.top_banner
+##iframe[src^="http://ra.ntwoad.co.kr"]
+##iframe[src^="http://wwwad.seoul.co.kr"]
 
 ! Site element hiding rules
 news.donga.com##div[id$="real_pop_bnr_donga"]
@@ -84,6 +86,7 @@ hankyung.com##.newsAd
 hankyung.com##div[class^="r_ad_"]
 hankyung.com##div[class^="news_ad_"]
 hankyung.com##div[class^="article_ad_"]
+en.seoul.co.kr###seoulAdTable
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
