@@ -111,3 +111,4 @@ segye.com##div[id^="ClickStory_ViewRightAD"]
 ||donga.autobrain.net/banner
 ||cad.chosun.com/RealMedia/ads
 ||p.lumieyes.com
+||ad2.segye.com
