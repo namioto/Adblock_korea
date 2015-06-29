@@ -98,6 +98,12 @@ newdaily.co.kr##div[id^="ndAdMH"]
 newdaily.co.kr##div[id^="iw_ad"]
 newdaily.co.kr###ndAdSB
 newdaily.co.kr###ndBrand
+en.seoul.co.kr###tbFadeIn
+en.seoul.co.kr##div[style="clear:both;float:left;display:inline-block;width:320px;height:250px;text-align:center;margin-bottom:25px;"]
+en.seoul.co.kr##div[style="float:right;display:inline-block;width:320px;height:250px;text-align:center;margin-bottom:25px;"]
+newdaily.co.kr##div[style="width:610px;height:250px;padding-bottom:10px;"]
+star.mbn.co.kr##table[style="margin-bottom:30px"]
+star.mbn.co.kr##.right_image
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
