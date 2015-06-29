@@ -72,6 +72,7 @@ sports.chosun.com##.bn
 sports.chosun.com##div[class^="f_ad"]
 sports.chosun.com##div[id^="NAD_BANNER_WIDGET_"]
 sports.chosun.com###JSSAP_CmAdView
+segye.com###sideBanner
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
