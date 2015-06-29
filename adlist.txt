@@ -79,6 +79,10 @@ segye.com##div[id^="ClickStory_ViewRightAD"]
 segye.com##iframe[src^="http://ad2.segye.com"]
 segye.com##iframe[src^="http://ads.mncmedia.co.kr"]
 segye.com##.logoline_banner
+hankyung.com##.fltAd
+hankyung.com##.newsAd
+hankyung.com##div[class^="r_ad_"]
+hankyung.com##div[class^="news_ad_"]
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
