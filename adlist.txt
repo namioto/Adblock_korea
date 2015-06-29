@@ -62,8 +62,8 @@ wowstar.wowtv.co.kr###tbFadeIn
 wowstar.wowtv.co.kr##.ad_area
 wowstar.wowtv.co.kr###uniqubeAd_area
 wowstar.wowtv.co.kr###iwm_ti_bann
-donga.com.sub_cont_AD01
-donga.com.sub_cont_AD02
+donga.com##.sub_cont_AD01
+donga.com##.sub_cont_AD02
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
