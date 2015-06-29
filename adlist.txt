@@ -35,6 +35,7 @@
 ##iframe[src^="http://ra.ntwoad.co.kr"]
 ##iframe[src^="http://wwwad.seoul.co.kr"]
 ##iframe[src^="http://ads.mangouni.com"]
+##iframe[src^="http://adkpf.newscloud.or.kr"]
 
 ! Site element hiding rules
 news.donga.com##div[id$="real_pop_bnr_donga"]
@@ -91,6 +92,10 @@ en.seoul.co.kr###seoulAdTable
 en.seoul.co.kr##.atic_reply
 en.seoul.co.kr##.encnt_footer
 cafe.naver.com##.area_sa
+newdaily.co.kr##div[id^="ndAdMH"]
+newdaily.co.kr##div[id^="iw_ad"]
+newdaily.co.kr###ndAdSB
+newdaily.co.kr###ndBrand
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
