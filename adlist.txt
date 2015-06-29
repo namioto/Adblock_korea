@@ -49,6 +49,11 @@ star.mt.co.kr###naonNAONMP5864
 starin.edaily.co.kr##.ovh.mt20
 starin.edaily.co.kr###aswift_0
 starin.edaily.co.kr###scrollDiv
+edaily.co.kr##.viewcontent_ad
+edaily.co.kr###textLasOut
+edaily.co.kr###scrollDiv
+edaily.co.kr###aswift_0
+edaily.co.kr###aswift_1
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
