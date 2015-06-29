@@ -4,6 +4,7 @@
 ! Title: Adblock_korea
 
 ! General element hiding rules
+##div[id="adBox"]
 ##div[id$="_AD"]
 ##div[id$="_ad"]
 ##div[id$="_ads"]
