@@ -64,6 +64,7 @@ news.chosun.com###right_topic
 news.chosun.com##div[id^="fsa_left"]
 news.chosun.com##div[id^="rside_ad"]
 news.chosun.com##div[class^="rside_ad"]
+news.chosun.com##div[id^="ddnAdifrDAN"]
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
