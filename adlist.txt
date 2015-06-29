@@ -98,6 +98,7 @@ hankyung.com##div[class^="article_ad_"]
 en.seoul.co.kr###seoulAdTable
 en.seoul.co.kr##.atic_reply
 en.seoul.co.kr##.encnt_footer
+en.seoul.co.kr##.enatic_banner
 cafe.naver.com##.area_sa
 newdaily.co.kr##div[id^="ndAdMH"]
 newdaily.co.kr##div[id^="iw_ad"]
