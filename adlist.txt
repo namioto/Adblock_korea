@@ -73,10 +73,10 @@ news.chosun.com###right_topic
 ||adv.imadrep.co.kr
 ||cas.criteo.com
 ||vop.co.kr/templates/ad_2011
-||web.n2s.co.kr/_n2s_adop_ad.html
+||web.n2s.co.kr
 ||iwmedia.dl.cdn.cloudn.co.kr
 ||candy.ad9.kr
-||mt.co.kr/ad/starArticleBottom.html
+||mt.co.kr/ad
 ||img2.keywordsconnect.com
 ||a1.dp25.kr
 ||adv.mediaharbor.co.kr
