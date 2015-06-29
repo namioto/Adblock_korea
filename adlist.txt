@@ -44,7 +44,10 @@
 ##iframe[src^="http://adkpf.newscloud.or.kr"]
 ##iframe[src^="http://adv.imadrep.co.kr"]
 ##iframe[src^="http://adin.ad4980.kr"]
+##iframe[src^="http://adin.ad4989.kr"]
 ##iframe[src^="http://agate.opap.co.kr"]
+##iframe[src^="http://ad.adinc.kr"]
+##iframe[src^="http://ad.ilikesponsorad.co.kr"]
 
 ! Site element hiding rules
 news.donga.com##div[id$="real_pop_bnr_donga"]
@@ -129,6 +132,10 @@ joins.com##.biz_link_right_area
 joins.com##div[id^="promotion_bnr"]
 joins.com##div[class^="article_ad"]
 joins.com##div[class^="biz_link_area"]
+asiatoday.co.kr###headline_ad_wrap
+asiatoday.co.kr###headline_title_2_right
+asiatoday.co.kr###scrolling_banner
+asiatoday.co.kr##embed[src^="http://img.asiatoday.co.kr/adver"]
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
