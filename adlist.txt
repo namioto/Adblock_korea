@@ -15,10 +15,12 @@
 ##div[id$="_ad"]
 ##div[id$="-ad"]
 ##div[id$="_ads"]
+##div[id$="_productAd"]
 ##div[id^="AD_"]
 ##div[id^="ad_"]
 ##div[id^="ads"]
-##div[id$="_productAd"]
+##div[id^="div-gpt-ad"]
+##div[id^="datasetNAONMP"]
 ##div.shopping_cast
 ##div[id^="aswift_"]
 ###aswift_0_anchor
@@ -33,6 +35,7 @@
 ###scrollDiv
 ###ILSA_obj
 ###quick_adon_bizon
+###FadeADLayer
 ##.adsbygoogle
 ##.top_banner
 ##ins.daum_ddn_area
@@ -48,6 +51,7 @@
 ##iframe[src^="http://agate.opap.co.kr"]
 ##iframe[src^="http://ad.adinc.kr"]
 ##iframe[src^="http://ad.ilikesponsorad.co.kr"]
+##iframe[src^="http://ads.mncmedia.co.kr"]
 
 ! Site element hiding rules
 news.donga.com##div[id$="real_pop_bnr_donga"]
@@ -136,6 +140,20 @@ asiatoday.co.kr###headline_ad_wrap
 asiatoday.co.kr###headline_title_2_right
 asiatoday.co.kr###scrolling_banner
 asiatoday.co.kr##embed[src^="http://img.asiatoday.co.kr/adver"]
+asiatoday.co.kr##div[style="margin: 0 auto; width: 728px; height: 90px;"]
+asiatoday.co.kr##div[style="width:638px;border:1px solid #E3E3E3;height:148px;margin-top:15px;padding-left:20px"]
+yonhapnews.co.kr##.top-banner1
+yonhapnews.co.kr##.top-banner2
+newsis.com###div_ad1
+newsis.com###div_ad2
+etoday.co.kr##.sectionAD
+etoday.co.kr##div[style="margin:20px 0 20px 10px; width:680px; height:100px;"]
+etoday.co.kr##div[style="width:680px; height:80px; text-align:center;"]
+joseilbo.com##.left_top_ban
+joseilbo.com##.ent_right_ban
+joseilbo.com##.banner_box_wrap
+joseilbo.com##.related_article
+joseilbo.com##.bot_layer_ban
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
