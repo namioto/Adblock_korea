@@ -34,6 +34,7 @@
 ##.top_banner
 ##iframe[src^="http://ra.ntwoad.co.kr"]
 ##iframe[src^="http://wwwad.seoul.co.kr"]
+##iframe[src^="http://ads.mangouni.com"]
 
 ! Site element hiding rules
 news.donga.com##div[id$="real_pop_bnr_donga"]
