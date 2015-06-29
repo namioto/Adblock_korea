@@ -95,3 +95,4 @@ news.chosun.com###right_topic
 ||ar.donga.com
 ||adimg.donga.com
 ||donga.autobrain.net/banner
+||cad.chosun.com/RealMedia/ads
