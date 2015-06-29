@@ -78,6 +78,7 @@ segye.com##div[id^="ClickStory_ViewAD"]
 segye.com##div[id^="ClickStory_ViewRightAD"]
 segye.com##iframe[src^="http://ad2.segye.com"]
 segye.com##iframe[src^="http://ads.mncmedia.co.kr"]
+segye.com##.logoline_banner
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
