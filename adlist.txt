@@ -66,6 +66,7 @@ news.chosun.com##div[id^="rside_ad"]
 news.chosun.com##div[class^="rside_ad"]
 news.chosun.com##div[id^="ddnAdifrDAN"]
 news.chosun.com##div[style="position: absolute; line-height:0; font-size:0; left: 50%; top: 188px; width: 120px; height: 600px; margin-left: 490px;"]
+sports.chosun.com###rad
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
