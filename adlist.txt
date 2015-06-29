@@ -32,6 +32,7 @@
 ###textLasOut
 ###scrollDiv
 ###ILSA_obj
+###quick_adon_bizon
 ##.adsbygoogle
 ##.top_banner
 ##ins.daum_ddn_area
