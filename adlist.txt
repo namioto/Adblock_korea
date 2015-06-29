@@ -12,25 +12,26 @@
 ##div[id^="ads"]
 ##div[id$="_productAd"]
 ##div.shopping_cast
+###aswift_0
+###aswift_1
+###aswift_2
+###textLasOut
+###scrollDiv
+###ILSA_obj
+##.adsbygoogle
 
 ! Site element hiding rules
 naver.com###ad_branding
 naver.com##.shopping_cast
 naver.com###ad_top
-g-enews.com###scrollDiv
-g-enews.com##.adsbygoogle
 g-enews.com##.banner.center_banner
 g-enews.com##.banner.l_banner
 g-enews.com##.banner.r_banner
 g-enews.com##.banner.right
-news.mtn.co.kr###scrollDiv
 news.mtn.co.kr##.adArticle
 news.mtn.co.kr##.adArticle2
 news.mtn.co.kr##.adrelatedArticle
-news.mtn.co.kr##.adsbygoogle
 osen.mt.co.kr##.advertising
-view.asiae.co.kr###scrollDiv
-vop.co.kr###scrollDiv
 vop.co.kr##.adpage-top-ad
 vop.co.kr##.articlein_ad
 vop.co.kr##.aside-right
@@ -41,24 +42,14 @@ star.mt.co.kr##.right
 star.mt.co.kr###art_ad_top1
 star.mt.co.kr##.ad1
 star.mt.co.kr##div[style="float:left; margin:0 15px 10px 0; overflow:hidden; width:250px; height:250px;"]
-star.mt.co.kr###textLasOut
-star.mt.co.kr###scrollDiv
-star.mt.co.kr###ILSA_obj
 star.mt.co.kr##.text_ad
 star.mt.co.kr###naonNAONMP5864
 starin.edaily.co.kr##.ovh.mt20
-starin.edaily.co.kr###aswift_0
-starin.edaily.co.kr###scrollDiv
+starin.edaily.co.kr
 edaily.co.kr##.viewcontent_ad
-edaily.co.kr###textLasOut
-edaily.co.kr###scrollDiv
-edaily.co.kr###aswift_0
-edaily.co.kr###aswift_1
 wowstar.wowtv.co.kr##div[style="width:326px; float:left; text-align:right"]
 wowstar.wowtv.co.kr###iwm_ti_frme0
 wowstar.wowtv.co.kr###tbFadeIn
-wowstar.wowtv.co.kr###textLasOut
-wowstar.wowtv.co.kr###scrollDiv
 wowstar.wowtv.co.kr##.ad_area
 wowstar.wowtv.co.kr###uniqubeAd_area
 wowstar.wowtv.co.kr###iwm_ti_bann
