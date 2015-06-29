@@ -15,6 +15,15 @@
 ###aswift_0
 ###aswift_1
 ###aswift_2
+###aswift_3
+###aswift_0_anchor
+###aswift_1_anchor
+###aswift_2_anchor
+###aswift_3_anchor
+###aswift_0_expand
+###aswift_1_expand
+###aswift_2_expand
+###aswift_3_expand
 ###textLasOut
 ###scrollDiv
 ###ILSA_obj
@@ -81,3 +90,6 @@ wowstar.wowtv.co.kr###iwm_ti_bann
 ||adin.ad4980.kr
 ||ad.adnmore.co.kr
 ||wowstar.wowtv.co.kr/banner
+||joongboo.com/adNdsoft
+||joongboo.com/banner
+||dreamsearch.or.kr
