@@ -167,3 +167,4 @@ joins.com##div[class^="biz_link_area"]
 ||p.lumieyes.com
 ||ad2.segye.com
 ||ra.ntwoad.co.kr
+||static.joins.com/common/ui/ad
