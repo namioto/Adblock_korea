@@ -4,7 +4,7 @@
 ! Title: Adblock_korea
 
 ! General element hiding rules
-##div.aside_AD + *
+##div[class^="aside_AD"]
 ##div[class^="sub_cont_AD"]
 ##div[id="adBox"]
 ##div[id$="_AD"]
@@ -15,7 +15,7 @@
 ##div[id^="ads"]
 ##div[id$="_productAd"]
 ##div.shopping_cast
-###aswift_ + *
+##div[id^="aswift_"]
 ###aswift_0_anchor
 ###aswift_1_anchor
 ###aswift_2_anchor
