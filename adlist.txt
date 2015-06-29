@@ -35,6 +35,7 @@ vop.co.kr##.adpage-top-ad
 vop.co.kr##.articlein_ad
 vop.co.kr##.aside-right
 vop.co.kr##.top-ad
+tvreport.co.kr##div[style="font-size:38px;line-height:130px;color:#63802c;height:130px;text-align:center;"]
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
