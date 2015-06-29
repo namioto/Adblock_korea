@@ -45,6 +45,7 @@ star.mt.co.kr###textLasOut
 star.mt.co.kr###scrollDiv
 star.mt.co.kr###ILSA_obj
 star.mt.co.kr##.text_ad
+star.mt.co.kr###naonNAONMP5864
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
