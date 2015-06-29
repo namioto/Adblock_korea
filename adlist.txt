@@ -166,6 +166,12 @@ fnnews.com##.tit_banner
 fnnews.com##.fn_left_side
 ilbe.com##head
 ilbe.com##body
+daum.net###shopping
+cafe.daum.net###sideAd
+imbc.com##.hd-ad-ban
+imbc.com##.ui.main.grid.ad.floated.left
+imbc.com##.ui.main.grid.banner.bottom
+sbs.co.kr##.sn_banner
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
@@ -207,3 +213,4 @@ ilbe.com##body
 ||static.joins.com/common/ui/ad
 ||ent.joseilbo.com/banner
 ||sportsworldi.com/Articles/Components/Ad
+||ads.imbc.com/RealMedia/ads
