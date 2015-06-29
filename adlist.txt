@@ -62,6 +62,7 @@ wowstar.wowtv.co.kr###iwm_ti_bann
 news.donga.com##.rel_ad_box
 news.chosun.com###right_topic
 news.chosun.com##div[id^="fsa_left"]
+news.chosun.com##div[id^="rside_ad"]
 news.chosun.com##div[class^="rside_ad"]
 
 ! URL filters
