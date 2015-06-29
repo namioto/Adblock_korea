@@ -13,11 +13,38 @@
 ##div[id$="_productAd"]
 ##div.shopping_cast
 
-! URL filters
-castbox.shopping.naver.com/index.nhn
-ad.wowtv.co.kr
-
 ! Site element hiding rules
 naver.com###ad_branding
 naver.com##.shopping_cast
 naver.com###ad_top
+g-enews.com###scrollDiv
+g-enews.com##.adsbygoogle
+g-enews.com##.banner.center_banner
+g-enews.com##.banner.l_banner
+g-enews.com##.banner.r_banner
+g-enews.com##.banner.right
+news.mtn.co.kr###scrollDiv
+news.mtn.co.kr##.adArticle
+news.mtn.co.kr##.adArticle2
+news.mtn.co.kr##.adrelatedArticle
+news.mtn.co.kr##.adsbygoogle
+osen.mt.co.kr##.advertising
+view.asiae.co.kr###scrollDiv
+vop.co.kr###scrollDiv
+vop.co.kr##.adpage-top-ad
+vop.co.kr##.articlein_ad
+vop.co.kr##.aside-right
+vop.co.kr##.top-ad
+
+! URL filters
+||castbox.shopping.naver.com/index.nhn
+||ad.wowtv.co.kr
+||a.wyzmob.com
+||ad.ad4989.co.kr
+||ad.ilikesponsorad.co.kr
+||ad.naver.com
+||ad.naver.com/adshow
+||adv.imadrep.co.kr
+||cas.criteo.com
+||vop.co.kr/templates/ad_2011
+||web.n2s.co.kr/_n2s_adop_ad.html
