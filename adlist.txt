@@ -14,10 +14,7 @@
 ##div[id^="ads"]
 ##div[id$="_productAd"]
 ##div.shopping_cast
-###aswift_0
-###aswift_1
-###aswift_2
-###aswift_3
+###aswift_*
 ###aswift_0_anchor
 ###aswift_1_anchor
 ###aswift_2_anchor
