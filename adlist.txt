@@ -32,6 +32,7 @@
 ##.adsbygoogle
 
 ! Site element hiding rules
+news.donga.com##div[id$="real_pop_bnr_donga"]
 naver.com###ad_branding
 naver.com##.shopping_cast
 naver.com###ad_top
