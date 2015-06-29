@@ -156,6 +156,8 @@ joseilbo.com##.related_article
 joseilbo.com##.bot_layer_ban
 sportsworldi.com##iframe[src^="http://www.sportsworldi.com/Articles/Components/Ad"]
 sportsworldi.com##iframe[src^="/Articles/Components/Ad"]
+news1.kr##div[style=" padding:5px; background:#EBEBEB; margin-top:-200px; right:0; position:absolute; width:200px; height:200px;"]
+
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
