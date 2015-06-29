@@ -6,9 +6,12 @@
 ! General element hiding rules
 ##div[class^="aside_AD"]
 ##div[class^="sub_cont_AD"]
+##div[class^="ad"]
+##div[class$="_ad"]
 ##div[id="adBox"]
 ##div[id$="_AD"]
 ##div[id$="_ad"]
+##div[id$="-ad"]
 ##div[id$="_ads"]
 ##div[id^="AD_"]
 ##div[id^="ad_"]
@@ -42,21 +45,14 @@ news.mtn.co.kr##.adArticle
 news.mtn.co.kr##.adArticle2
 news.mtn.co.kr##.adrelatedArticle
 osen.mt.co.kr##.advertising
-vop.co.kr##.adpage-top-ad
-vop.co.kr##.articlein_ad
 vop.co.kr##.aside-right
-vop.co.kr##.top-ad
 tvreport.co.kr##div[style="font-size:38px;line-height:130px;color:#63802c;height:130px;text-align:center;"]
 tvreport.co.kr###iwm_float
 star.mt.co.kr##.right
 star.mt.co.kr###art_ad_top1
-star.mt.co.kr##.ad1
 star.mt.co.kr##div[style="float:left; margin:0 15px 10px 0; overflow:hidden; width:250px; height:250px;"]
-star.mt.co.kr##.text_ad
 star.mt.co.kr###naonNAONMP5864
 starin.edaily.co.kr##.ovh.mt20
-starin.edaily.co.kr
-edaily.co.kr##.viewcontent_ad
 wowstar.wowtv.co.kr##div[style="width:326px; float:left; text-align:right"]
 wowstar.wowtv.co.kr###iwm_ti_frme0
 wowstar.wowtv.co.kr###tbFadeIn
