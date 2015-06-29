@@ -16,6 +16,7 @@
 ##div[id$="-ad"]
 ##div[id$="_ads"]
 ##div[id$="_productAd"]
+##div[id$="sidebar-ads"]
 ##div[id^="AD_"]
 ##div[id^="ad_"]
 ##div[id^="ads"]
