@@ -61,6 +61,7 @@ wowstar.wowtv.co.kr###uniqubeAd_area
 wowstar.wowtv.co.kr###iwm_ti_bann
 news.donga.com##.rel_ad_box
 news.chosun.com###right_topic
+news.chosun.com##div[id^="fsa_left"]
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
