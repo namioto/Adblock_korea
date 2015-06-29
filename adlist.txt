@@ -98,3 +98,4 @@ news.donga.com##.aside_AD01_1
 ||joongboo.com/banner
 ||dreamsearch.or.kr
 ||ar.donga.com
+||adimg.donga.com
