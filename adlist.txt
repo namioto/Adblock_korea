@@ -193,3 +193,5 @@ joseilbo.com##.bot_layer_ban
 ||ad2.segye.com
 ||ra.ntwoad.co.kr
 ||static.joins.com/common/ui/ad
+||ent.joseilbo.com/banner
+||sportsworldi.com/Articles/Components/Ad
