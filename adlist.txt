@@ -107,3 +107,4 @@ sports.chosun.com###JSSAP_CmAdView
 ||adimg.donga.com
 ||donga.autobrain.net/banner
 ||cad.chosun.com/RealMedia/ads
+||p.lumieyes.com
