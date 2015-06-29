@@ -5,6 +5,7 @@
 
 ! General element hiding rules
 ###google_companion_ad_div
+##div[id^="google_ads"]
 ##div[class^="aside_AD"]
 ##div[class^="sub_cont_AD"]
 ##div[class^="ad"]
