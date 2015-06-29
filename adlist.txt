@@ -154,6 +154,8 @@ joseilbo.com##.ent_right_ban
 joseilbo.com##.banner_box_wrap
 joseilbo.com##.related_article
 joseilbo.com##.bot_layer_ban
+sportsworldi.com##iframe[src^="http://www.sportsworldi.com/Articles/Components/Ad"]
+sportsworldi.com##iframe[src^="/Articles/Components/Ad"]
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
