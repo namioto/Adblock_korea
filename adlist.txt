@@ -34,6 +34,7 @@
 ###ILSA_obj
 ##.adsbygoogle
 ##.top_banner
+##ins.daum_ddn_area
 ##iframe[src^="http://ra.ntwoad.co.kr"]
 ##iframe[src^="http://wwwad.seoul.co.kr"]
 ##iframe[src^="http://ads.mangouni.com"]
