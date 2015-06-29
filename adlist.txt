@@ -54,6 +54,14 @@ edaily.co.kr###textLasOut
 edaily.co.kr###scrollDiv
 edaily.co.kr###aswift_0
 edaily.co.kr###aswift_1
+wowstar.wowtv.co.kr##div[style="width:326px; float:left; text-align:right"]
+wowstar.wowtv.co.kr###iwm_ti_frme0
+wowstar.wowtv.co.kr###tbFadeIn
+wowstar.wowtv.co.kr###textLasOut
+wowstar.wowtv.co.kr###scrollDiv
+wowstar.wowtv.co.kr##.ad_area
+wowstar.wowtv.co.kr###uniqubeAd_area
+wowstar.wowtv.co.kr###iwm_ti_bann
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
@@ -79,3 +87,6 @@ edaily.co.kr###aswift_1
 ||ad3.edaily.co.kr
 ||exttag.about.co.kr
 ||outbanner.hu.co.kr
+||adin.ad4980.kr
+||ad.adnmore.co.kr
+||wowstar.wowtv.co.kr/banner
