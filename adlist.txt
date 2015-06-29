@@ -31,6 +31,7 @@
 ###scrollDiv
 ###ILSA_obj
 ##.adsbygoogle
+##.top_banner
 
 ! Site element hiding rules
 news.donga.com##div[id$="real_pop_bnr_donga"]
@@ -67,6 +68,8 @@ news.chosun.com##div[class^="rside_ad"]
 news.chosun.com##div[id^="ddnAdifrDAN"]
 news.chosun.com##div[style="position: absolute; line-height:0; font-size:0; left: 50%; top: 188px; width: 120px; height: 600px; margin-left: 490px;"]
 sports.chosun.com###rad
+sports.chosun.com##.bn
+sports.chosun.com##div[class^="f_ad"]
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
