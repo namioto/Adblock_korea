@@ -14,7 +14,8 @@
 ##div[id^="ads"]
 ##div[id$="_productAd"]
 ##div.shopping_cast
-###aswift_*
+##.sub_cont_AD + *
+###aswift_ + *
 ###aswift_0_anchor
 ###aswift_1_anchor
 ###aswift_2_anchor
@@ -62,8 +63,6 @@ wowstar.wowtv.co.kr###tbFadeIn
 wowstar.wowtv.co.kr##.ad_area
 wowstar.wowtv.co.kr###uniqubeAd_area
 wowstar.wowtv.co.kr###iwm_ti_bann
-news.donga.com##.sub_cont_AD01
-news.donga.com##.sub_cont_AD02
 news.donga.com##.aside_AD01_1
 
 ! URL filters
