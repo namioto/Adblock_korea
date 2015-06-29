@@ -94,3 +94,4 @@ news.donga.com##.rel_ad_box
 ||dreamsearch.or.kr
 ||ar.donga.com
 ||adimg.donga.com
+||donga.autobrain.net/banner
