@@ -173,6 +173,21 @@ imbc.com##.ui.main.grid.ad.floated.left
 imbc.com##.ui.main.grid.banner.bottom
 sbs.co.kr##.sn_banner
 
+gamemeca.com##.banner_box
+gamemeca.com##.lBannerMain
+gamemeca.com##.rBannerMain2
+gamemeca.com##.rBtmBanner
+gamemeca.com##.eventBanner
+thisisgame.com##.banner
+thisisgame.com##.side-premium-banner
+thisisgame.com###ad-wing
+thisisgame.com###ad-mid-wide
+inven.co.kr###webzineAdTop
+inven.co.kr###adHomeTop
+inven.co.kr###eventPopup
+inven.co.kr###lolAdTop
+inven.co.kr##.topBannerPart
+
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
 ||ad.wowtv.co.kr
