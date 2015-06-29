@@ -44,6 +44,7 @@
 ##iframe[src^="http://adkpf.newscloud.or.kr"]
 ##iframe[src^="http://adv.imadrep.co.kr"]
 ##iframe[src^="http://adin.ad4980.kr"]
+##iframe[src^="http://agate.opap.co.kr"]
 
 ! Site element hiding rules
 news.donga.com##div[id$="real_pop_bnr_donga"]
@@ -111,6 +112,23 @@ newdaily.co.kr##div[style="width:610px;height:250px;padding-bottom:10px;"]
 mbn.co.kr##table[style="margin-bottom:30px"]
 mbn.co.kr##.right_image
 mbn.co.kr##.star_event
+joins.com###iwm_fsa_wrap
+joins.com###shopping_area
+joins.com###shoppingnews
+joins.com###imcbanner
+joins.com###id_right_style_and_life
+joins.com###spnAddLinkArticleContent
+joins.com###divArticleBottomTextBanner
+joins.com###div_biz_link_realclick
+joins.com###div_etc_add_area
+joins.com###divArticleAdnetworkBanner
+joins.com###promote
+joins.com###gnb_banner
+joins.com##.gnb_banner
+joins.com##.biz_link_right_area
+joins.com##div[id^="promotion_bnr"]
+joins.com##div[class^="article_ad"]
+joins.com##div[class^="biz_link_area"]
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
