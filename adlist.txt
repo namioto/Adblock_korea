@@ -5,7 +5,7 @@
 
 ! General element hiding rules
 ##div.aside_AD + *
-##div[class$="sub_cont_AD"]
+##div[class^="sub_cont_AD"]
 ##div[id="adBox"]
 ##div[id$="_AD"]
 ##div[id$="_ad"]
