@@ -52,6 +52,8 @@
 ##iframe[src^="http://ad.adinc.kr"]
 ##iframe[src^="http://ad.ilikesponsorad.co.kr"]
 ##iframe[src^="http://ads.mncmedia.co.kr"]
+##iframe[src^="http://plugin.2beon.co.kr"]
+##iframe[src^="http://adsvr.kmib.co.kr"]
 
 ! Site element hiding rules
 news.donga.com##div[id$="real_pop_bnr_donga"]
@@ -157,7 +159,13 @@ joseilbo.com##.bot_layer_ban
 sportsworldi.com##iframe[src^="http://www.sportsworldi.com/Articles/Components/Ad"]
 sportsworldi.com##iframe[src^="/Articles/Components/Ad"]
 news1.kr##div[style=" padding:5px; background:#EBEBEB; margin-top:-200px; right:0; position:absolute; width:200px; height:200px;"]
-
+kmib.co.kr##.bnrct
+news.kmib.co.kr##div[style="padding-bottom:20px;width:700px;height:150px;"]
+news.kmib.co.kr##div[style="padding-bottom:20px;width:700px;height:180px;"]
+fnnews.com##.tit_banner
+fnnews.com##.fn_left_side
+ilbe.com##head
+ilbe.com##body
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
