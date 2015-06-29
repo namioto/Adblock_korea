@@ -5,6 +5,7 @@
 
 ! General element hiding rules
 ##div.aside_AD + *
+##.sub_cont_AD + *
 ##div[id="adBox"]
 ##div[id$="_AD"]
 ##div[id$="_ad"]
@@ -14,7 +15,6 @@
 ##div[id^="ads"]
 ##div[id$="_productAd"]
 ##div.shopping_cast
-##.sub_cont_AD + *
 ###aswift_ + *
 ###aswift_0_anchor
 ###aswift_1_anchor
