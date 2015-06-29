@@ -121,3 +121,4 @@ hankyung.com##div[class^="article_ad_"]
 ||cad.chosun.com/RealMedia/ads
 ||p.lumieyes.com
 ||ad2.segye.com
+||ra.ntwoad.co.kr
