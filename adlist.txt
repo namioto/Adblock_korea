@@ -37,6 +37,14 @@ vop.co.kr##.aside-right
 vop.co.kr##.top-ad
 tvreport.co.kr##div[style="font-size:38px;line-height:130px;color:#63802c;height:130px;text-align:center;"]
 tvreport.co.kr###iwm_float
+star.mt.co.kr##.right
+star.mt.co.kr###art_ad_top1
+star.mt.co.kr##.ad1
+star.mt.co.kr##div[style="float:left; margin:0 15px 10px 0; overflow:hidden; width:250px; height:250px;"]
+star.mt.co.kr###textLasOut
+star.mt.co.kr###scrollDiv
+star.mt.co.kr###ILSA_obj
+star.mt.co.kr##.text_ad
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
@@ -50,3 +58,12 @@ tvreport.co.kr###iwm_float
 ||cas.criteo.com
 ||vop.co.kr/templates/ad_2011
 ||web.n2s.co.kr/_n2s_adop_ad.html
+||iwmedia.dl.cdn.cloudn.co.kr
+||candy.ad9.kr
+||mt.co.kr/ad/starArticleBottom.html
+||img2.keywordsconnect.com
+||a1.dp25.kr
+||adv.mediaharbor.co.kr
+||adtg.widerplanet.com
+||ad.about.co.kr
+||menu.mt.co.kr/news/banner
