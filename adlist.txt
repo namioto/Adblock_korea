@@ -46,6 +46,9 @@ star.mt.co.kr###scrollDiv
 star.mt.co.kr###ILSA_obj
 star.mt.co.kr##.text_ad
 star.mt.co.kr###naonNAONMP5864
+starin.edaily.co.kr##.ovh.mt20
+starin.edaily.co.kr###aswift_0
+starin.edaily.co.kr###scrollDiv
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
@@ -68,3 +71,6 @@ star.mt.co.kr###naonNAONMP5864
 ||adtg.widerplanet.com
 ||ad.about.co.kr
 ||menu.mt.co.kr/news/banner
+||ad3.edaily.co.kr
+||exttag.about.co.kr
+||outbanner.hu.co.kr
