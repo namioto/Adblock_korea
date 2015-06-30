@@ -118,6 +118,7 @@ hankyung.com###real_top2
 hankyung.com##.vs_poll
 hankyung.com###ad-popup
 hankyung.com##a[href^="http://www.lottorich.co.kr"]
+hankyung.com##embed[src^="http://file.starnnews.com/banner"]
 en.seoul.co.kr###seoulAdTable
 en.seoul.co.kr##.atic_reply
 en.seoul.co.kr##.encnt_footer
