@@ -62,6 +62,7 @@
 ##iframe[src^="http://ad.about.co.kr"]
 
 ! Site element hiding rules
+youtube.com##div[id$="sidebar-ads"]
 news.donga.com##div[id$="real_pop_bnr_donga"]
 naver.com###ad_branding
 naver.com##.shopping_cast
