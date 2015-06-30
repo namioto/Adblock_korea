@@ -22,6 +22,7 @@
 ##div[id^="ads"]
 ##div[id^="div-gpt-ad"]
 ##div[id^="datasetNAONMP"]
+##div[id^="ara_IL"]
 ##div.shopping_cast
 ##div[id^="aswift_"]
 ###aswift_0_anchor
@@ -55,6 +56,10 @@
 ##iframe[src^="http://ads.mncmedia.co.kr"]
 ##iframe[src^="http://plugin.2beon.co.kr"]
 ##iframe[src^="http://adsvr.kmib.co.kr"]
+##iframe[src^="http://ads-optima.com/"]
+##iframe[src^="http://ad.ilikesponsorad.co.kr/ad"]
+##iframe[src^="http://ad.xc.nis.nitmus.com"]
+##iframe[src^="http://ad.about.co.kr"]
 
 ! Site element hiding rules
 news.donga.com##div[id$="real_pop_bnr_donga"]
@@ -173,6 +178,9 @@ imbc.com##.hd-ad-ban
 imbc.com##.ui.main.grid.ad.floated.left
 imbc.com##.ui.main.grid.banner.bottom
 sbs.co.kr##.sn_banner
+kyeongin.com###layerBanner
+kyeongin.com##.float_banner
+kyeongin.com##iframe[src^="http://ph.kyeongin.com/adcontrol"]
 
 gamemeca.com##.banner_box
 gamemeca.com##.lBannerMain
