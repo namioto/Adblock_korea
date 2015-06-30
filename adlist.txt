@@ -38,6 +38,7 @@
 ###ILSA_obj
 ###quick_adon_bizon
 ###FadeADLayer
+###NeoInteractiveScreenViewLayer
 ##.adsbygoogle
 ##.top_banner
 ##ins.daum_ddn_area
@@ -112,6 +113,11 @@ hankyung.com##.newsAd
 hankyung.com##div[class^="r_ad_"]
 hankyung.com##div[class^="news_ad_"]
 hankyung.com##div[class^="article_ad_"]
+hankyung.com##.box_d2d2d2
+hankyung.com###real_top2
+hankyung.com##.vs_poll
+hankyung.com###ad-popup
+hankyung.com##a[href^="http://www.lottorich.co.kr"]
 en.seoul.co.kr###seoulAdTable
 en.seoul.co.kr##.atic_reply
 en.seoul.co.kr##.encnt_footer
