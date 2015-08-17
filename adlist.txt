@@ -63,6 +63,8 @@
 ##iframe[src^="http://ad.about.co.kr"]
 ##iframe[src*="sndkorea.co.kr"]
 ##iframe[src^="http://adv.mediaharbor.co.kr"]
+##iframe[src^="http://adx.naonmedia.net"]
+
 
 ##table#tbFadeIn
 
