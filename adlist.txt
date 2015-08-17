@@ -61,6 +61,7 @@
 ##iframe[src^="http://ad.ilikesponsorad.co.kr/ad"]
 ##iframe[src^="http://ad.xc.nis.nitmus.com"]
 ##iframe[src^="http://ad.about.co.kr"]
+##iframe[src^="sndkorea.co.kr"]
 ##table#tbFadeIn
 
 ! Site element hiding rules
@@ -211,6 +212,11 @@ ciokorea.com##.GNB_top_banner
 ciokorea.com##.IDG_banner
 ciokorea.com###techlibrary_left_slide_banner
 ciokorea.com###banner_right_wing
+zdnet.co.kr###main_right_Floating_banner
+zdnet.co.kr##.right_bn1
+zdnet.co.kr##.right_bn2
+zdnet.co.kr##.right_bn3
+zdnet.co.kr##.right_bn4
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
@@ -253,3 +259,5 @@ ciokorea.com###banner_right_wing
 ||ent.joseilbo.com/banner
 ||sportsworldi.com/Articles/Components/Ad
 ||ads.imbc.com/RealMedia/ads
+||adsr.zdnet.co.kr
+||adsr.meganews.co.krf
