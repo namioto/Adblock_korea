@@ -206,6 +206,12 @@ inven.co.kr###eventPopup
 inven.co.kr###lolAdTop
 inven.co.kr##.topBannerPart
 
+ciokorea.com##.billboard
+ciokorea.com##.GNB_top_banner 
+ciokorea.com##.IDG_banner
+ciokorea.com###techlibrary_left_slide_banner
+ciokorea.com###banner_right_wing
+
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
 ||ad.wowtv.co.kr
