@@ -195,7 +195,7 @@ kyeongin.com##.float_banner
 kyeongin.com##iframe[src^="http://ph.kyeongin.com/adcontrol"]
 yonhapnews.co.kr##.top_ban_left
 yonhapnews.co.kr##.top_ban
-yonhapnews.co.kr##a[src^="http://ad.yonhapnews.co.kr"]
+yonhapnews.co.kr##a[href^="http://ad.yonhapnews.co.kr"]
 yonhapnews.co.kr##.rgt_sban
 yonhapnews.co.kr###lyt_snb div[style="width:100px;float:left"]
 yonhapnews.co.kr##.cts_iframe
