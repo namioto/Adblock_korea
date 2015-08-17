@@ -219,6 +219,7 @@ zdnet.co.kr##.right_bn3
 zdnet.co.kr##.right_bn4
 zdnet.co.kr###divMenu
 zdnet.co.kr###divMenu2
+zdnet.co.kr##ul.ad_list
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
