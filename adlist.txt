@@ -61,7 +61,7 @@
 ##iframe[src^="http://ad.ilikesponsorad.co.kr/ad"]
 ##iframe[src^="http://ad.xc.nis.nitmus.com"]
 ##iframe[src^="http://ad.about.co.kr"]
-##iframe[src^="sndkorea.co.kr"]
+##iframe[src*="sndkorea.co.kr"]
 ##table#tbFadeIn
 
 ! Site element hiding rules
