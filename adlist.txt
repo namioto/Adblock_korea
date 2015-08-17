@@ -164,6 +164,7 @@ asiatoday.co.kr###scrolling_banner
 asiatoday.co.kr##embed[src^="http://img.asiatoday.co.kr/adver"]
 asiatoday.co.kr##div[style="margin: 0 auto; width: 728px; height: 90px;"]
 asiatoday.co.kr##div[style="width:638px;border:1px solid #E3E3E3;height:148px;margin-top:15px;padding-left:20px"]
+asiatoday.co.kr###wingBnLeft
 yonhapnews.co.kr##.top-banner1
 yonhapnews.co.kr##.top-banner2
 newsis.com###div_ad1
