@@ -62,6 +62,8 @@
 ##iframe[src^="http://ad.xc.nis.nitmus.com"]
 ##iframe[src^="http://ad.about.co.kr"]
 ##iframe[src*="sndkorea.co.kr"]
+##iframe[src^="http://adv.mediaharbor.co.kr"]
+
 ##table#tbFadeIn
 
 ! Site element hiding rules
@@ -191,6 +193,13 @@ sbs.co.kr##.sn_banner
 kyeongin.com###layerBanner
 kyeongin.com##.float_banner
 kyeongin.com##iframe[src^="http://ph.kyeongin.com/adcontrol"]
+yonhapnews.co.kr##.top_ban_left
+yonhapnews.co.kr##.top_ban
+yonhapnews.co.kr##a[src^="http://ad.yonhapnews.co.kr"]
+yonhapnews.co.kr##.rgt_sban
+yonhapnews.co.kr###lyt_snb div[style="width:100px;float:left"]
+yonhapnews.co.kr##.cts_iframe
+yonhapnews.co.kr##.cts_ban
 
 gamemeca.com##.banner_box
 gamemeca.com##.lBannerMain
