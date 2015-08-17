@@ -217,6 +217,8 @@ zdnet.co.kr##.right_bn1
 zdnet.co.kr##.right_bn2
 zdnet.co.kr##.right_bn3
 zdnet.co.kr##.right_bn4
+zdnet.co.kr###divMenu
+zdnet.co.kr###divMenu2
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
@@ -260,4 +262,4 @@ zdnet.co.kr##.right_bn4
 ||sportsworldi.com/Articles/Components/Ad
 ||ads.imbc.com/RealMedia/ads
 ||adsr.zdnet.co.kr
-||adsr.meganews.co.krf
+||adsr.meganews.co.kr
