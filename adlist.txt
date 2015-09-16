@@ -237,6 +237,10 @@ zdnet.co.kr##ul.ad_list
 ppomppu.co.kr###pp_ban_right
 ppomppu.co.kr###pp_ban_bbs
 ppomppu.co.kr###pp_ban_bbs_view
+ppomppu.co.kr###pp_ban_bbs_list
+ppomppu.co.kr###shoppingbox
+ppomppu.co.kr##iframe#if_main_box_bn
+ppomppu.co.kr##iframe#if_bbs_list_bn
 clien.net##.ad_area1
 clien.net##div[style="width:769px; border:2px solid #4a9c35; height:100%;"]
 clien.net##.aside_sponser
