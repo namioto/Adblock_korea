@@ -233,6 +233,14 @@ zdnet.co.kr###divMenu
 zdnet.co.kr###divMenu2
 zdnet.co.kr##ul.ad_list
 
+! Commuity
+ppomppu.co.kr###pp_ban_right
+ppomppu.co.kr###pp_ban_bbs
+ppomppu.co.kr###pp_ban_bbs_view
+clien.net##.ad_area1
+clien.net##div[style="width:769px; border:2px solid #4a9c35; height:100%;"]
+clien.net##.aside_sponser
+
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
 ||ad.wowtv.co.kr
