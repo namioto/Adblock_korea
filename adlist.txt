@@ -55,6 +55,8 @@
 ##iframe[src^="http://ad.adinc.kr"]
 ##iframe[src^="http://ad.ilikesponsorad.co.kr"]
 ##iframe[src^="http://ads.mncmedia.co.kr"]
+##iframe[src^="http://cadvv.heraldm.com"]
+##iframe[src^="http://res.heraldm.com"]
 ##iframe[src^="http://plugin.2beon.co.kr"]
 ##iframe[src^="http://adsvr.kmib.co.kr"]
 ##iframe[src^="http://ads-optima.com/"]
@@ -64,7 +66,7 @@
 ##iframe[src*="sndkorea.co.kr"]
 ##iframe[src^="http://adv.mediaharbor.co.kr"]
 ##iframe[src^="http://adx.naonmedia.net"]
-
+##a[src^="http://adr.realclick.co.kr"]
 
 ##table#tbFadeIn
 
@@ -203,6 +205,15 @@ yonhapnews.co.kr##.rgt_sban
 yonhapnews.co.kr###lyt_snb div[style="width:100px;float:left"]
 yonhapnews.co.kr##.cts_iframe
 yonhapnews.co.kr##.cts_ban
+heraldcorp.com###HB_COMMOM_TOPINT001
+heraldcorp.com##.madLink
+heraldcorp.com##div[id^="herald2"]
+heraldcorp.com##.right_bn
+heraldcorp.com###HB_LEFTSLIDER001
+heraldcorp.com###HB_SUB_SIDEER001
+heraldcorp.com###HB_Sub_MIDTOP02
+heraldcorp.com##.clear.pt_15
+heraldcorp.com##.nnews_bottomadlist_area
 
 gamemeca.com##.banner_box
 gamemeca.com##.lBannerMain
