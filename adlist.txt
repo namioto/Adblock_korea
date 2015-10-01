@@ -92,6 +92,10 @@ star.mt.co.kr###art_ad_top1
 star.mt.co.kr##div[style="float:left; margin:0 15px 10px 0; overflow:hidden; width:250px; height:250px;"]
 star.mt.co.kr###naonNAONMP5864
 starin.edaily.co.kr##.ovh.mt20
+www.wowtv.co.kr###article.top_sub_top_area#div[style="float:right; width:120px; height:130px"]
+www.wowtv.co.kr##.common_AD
+www.wowtv.co.kr###absBannerRight
+www.wowtv.co.kr##.topbanner
 wowstar.wowtv.co.kr##div[style="width:326px; float:left; text-align:right"]
 wowstar.wowtv.co.kr###iwm_ti_frme0
 wowstar.wowtv.co.kr###tbFadeIn
@@ -99,6 +103,8 @@ wowstar.wowtv.co.kr##.ad_area
 wowstar.wowtv.co.kr###uniqubeAd_area
 wowstar.wowtv.co.kr###iwm_ti_bann
 news.donga.com##.rel_ad_box
+news.chosun.com##.art_ad_aside_if_google
+news.chosun.com##.art_ad_aside
 news.chosun.com###right_topic
 news.chosun.com##div[id^="fsa_left"]
 news.chosun.com##div[id^="rside_ad"]
@@ -109,6 +115,8 @@ sports.chosun.com##.bn
 sports.chosun.com##div[class^="f_ad"]
 sports.chosun.com##div[id^="NAD_BANNER_WIDGET_"]
 sports.chosun.com###JSSAP_CmAdView
+sports.chosun.com##fly_ad01
+sports.chosun.com##fly_ad02
 segye.com###sideBanner
 segye.com###NeoInteractiveScreenViewLayer
 segye.com##div[id^="ClickStory_ViewAD"]
