@@ -96,6 +96,7 @@ www.wowtv.co.kr##.top_sub_top_area div[style="float:right; width:120px; height:1
 www.wowtv.co.kr##.common_AD
 www.wowtv.co.kr###absBannerRight
 www.wowtv.co.kr##.topbanner
+www.wowtv.co.kr##.absAd
 wowstar.wowtv.co.kr##div[style="width:326px; float:left; text-align:right"]
 wowstar.wowtv.co.kr###iwm_ti_frme0
 wowstar.wowtv.co.kr###tbFadeIn
