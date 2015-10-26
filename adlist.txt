@@ -46,6 +46,7 @@
 ##iframe[id^="ddnAdifrDAN"]
 ##iframe[src^="http://ra.ntwoad.co.kr"]
 ##iframe[src^="http://wwwad.seoul.co.kr"]
+##iframe[src^="http://wwwads.seoul.co.kr"]
 ##iframe[src^="http://ads.mangouni.com"]
 ##iframe[src^="http://adkpf.newscloud.or.kr"]
 ##iframe[src^="http://adv.imadrep.co.kr"]
@@ -66,6 +67,7 @@
 ##iframe[src*="sndkorea.co.kr"]
 ##iframe[src^="http://adv.mediaharbor.co.kr"]
 ##iframe[src^="http://adx.naonmedia.net"]
+##iframe[src^="http://imp.mklaud.com"]
 ##a[src^="http://adr.realclick.co.kr"]
 
 ##table#tbFadeIn
@@ -136,10 +138,14 @@ hankyung.com##.vs_poll
 hankyung.com###ad-popup
 hankyung.com##a[href^="http://www.lottorich.co.kr"]
 hankyung.com##embed[src^="http://file.starnnews.com/banner"]
-en.seoul.co.kr###seoulAdTable
+seoul.co.kr###seoulAdTable
 en.seoul.co.kr##.atic_reply
 en.seoul.co.kr##.encnt_footer
 en.seoul.co.kr##.enatic_banner
+seoul.co.kr###iwm_expand_iframe
+seoul.co.kr###sbaAboutDiv
+seoul.co.kr###eMartDiv
+seoul.co.kr##.atic_banner
 cafe.naver.com##.area_sa
 newdaily.co.kr##div[id^="ndAdMH"]
 newdaily.co.kr##div[id^="iw_ad"]
