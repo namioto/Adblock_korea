@@ -69,6 +69,7 @@
 ##iframe[src^="http://adx.naonmedia.net"]
 ##iframe[src^="http://imp.mklaud.com"]
 ##a[src^="http://adr.realclick.co.kr"]
+##iframe[src^="http://ade.realclick.co.kr"]
 
 ##table#tbFadeIn
 
