@@ -176,6 +176,7 @@ joins.com##div[id^="promotion_bnr"]
 joins.com##div[class^="article_ad"]
 joins.com##div[class^="biz_link_area"]
 joins.com##.sub_da_350
+joins.com##.sub_da_300
 joins.com##.sub_da_250
 asiatoday.co.kr###headline_ad_wrap
 asiatoday.co.kr###headline_title_2_right
