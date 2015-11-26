@@ -128,6 +128,8 @@ segye.com##div[id^="ClickStory_ViewRightAD"]
 segye.com##iframe[src^="http://ad2.segye.com"]
 segye.com##iframe[src^="http://ads.mncmedia.co.kr"]
 segye.com##.logoline_banner
+segye.com##.hotnewsAD
+segye.com###textadbox
 hankyung.com##.fltAd
 hankyung.com##.newsAd
 hankyung.com##div[class^="r_ad_"]
