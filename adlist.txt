@@ -70,6 +70,10 @@
 ##iframe[src^="http://imp.mklaud.com"]
 ##a[src^="http://adr.realclick.co.kr"]
 ##iframe[src^="http://ade.realclick.co.kr"]
+##iframe[src^="http://adreal.dt.co.kr"]
+##iframe[src^="http://cas.criteo.com"]
+##iframe[src^="http://adsvc1.wisenut.co.kr"]
+##iframe[src^="http://adsvc2.wisenut.co.kr"]
 
 ##table#tbFadeIn
 
@@ -255,7 +259,7 @@ inven.co.kr###lolAdTop
 inven.co.kr##.topBannerPart
 
 ciokorea.com##.billboard
-ciokorea.com##.GNB_top_banner 
+ciokorea.com##.GNB_top_banner
 ciokorea.com##.IDG_banner
 ciokorea.com###techlibrary_left_slide_banner
 ciokorea.com###banner_right_wing
@@ -267,6 +271,9 @@ zdnet.co.kr##.right_bn4
 zdnet.co.kr###divMenu
 zdnet.co.kr###divMenu2
 zdnet.co.kr##ul.ad_list
+dt.co.kr###soea_areafi
+dt.co.kr###left_skyWingBanner
+dt.co.kr###right_skyWingBanner
 
 ! Commuity
 ppomppu.co.kr###pp_ban_right
