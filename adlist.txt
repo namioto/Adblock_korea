@@ -76,6 +76,8 @@
 ##iframe[src^="http://adsvc2.wisenut.co.kr"]
 ##img[src^="http://mediawise.co.kr/banner"]
 ##iframe[src^="http://mktag.mt.co.kr"]
+##iframe[src^="http://h1.adscope.co.kr"]
+##iframe[src^="http://h2.adscope.co.kr"]
 
 ##table#tbFadeIn
 
