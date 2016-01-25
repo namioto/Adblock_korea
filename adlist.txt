@@ -278,7 +278,10 @@ zdnet.co.kr##ul.ad_list
 dt.co.kr###soea_areafi
 dt.co.kr###left_skyWingBanner
 dt.co.kr###right_skyWingBanner
-
+itworld.co.kr###techlibrary_left_slide_banner
+itworld.co.kr###top_leaderboard
+itworld.co.kr###banner_right_wing
+itworld.co.kr##form#frmNewsletterWeb
 ! Commuity
 ppomppu.co.kr###pp_ban_right
 ppomppu.co.kr###pp_ban_bbs
@@ -290,6 +293,7 @@ ppomppu.co.kr##iframe#if_bbs_list_bn
 clien.net##.ad_area1
 clien.net##div[style="width:769px; border:2px solid #4a9c35; height:100%;"]
 clien.net##.aside_sponser
+
 
 ! URL filters
 ||castbox.shopping.naver.com/index.nhn
